@@ -1,3 +1,7 @@
+/* Project Name: 4 task
+    Create Date	: 20.03.21
+    Autor: (C) Uskova Ekaterina, Chelyabinsk, 2021*/
+
 <?php
 //Задан вес в граммах. Определить вес в тоннах и килограммах.
 $weight=1567;
