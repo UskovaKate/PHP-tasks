@@ -1,4 +1,4 @@
-/* Project Name: 7-10 task
+/* Project Name: 12 task
     Create Date	: 21.03.21
     Autor: (C) Uskova Ekaterina, Chelyabinsk, 2021*/
     
