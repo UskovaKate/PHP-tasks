@@ -1,3 +1,7 @@
+/* Project Name: 5 task
+    Create Date	: 20.03.21
+    Autor: (C) Uskova Ekaterina, Chelyabinsk, 2021*/
+
 <?php
 //Известен объем информации в байтах. Перевести в килобайты, мегабайты.
 $B=15379;
