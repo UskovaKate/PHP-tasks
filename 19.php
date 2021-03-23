@@ -5,7 +5,7 @@ $x=rand(-100,100);
 $y=rand(-100,100);
 $z=rand(-100,100);
 echo "Даны вещественные числа: <br>
-X= $x <br> Y= $y<br> Z= $z<br><br>";
+X= $x <br> Y= $y<br> Z= $z<br><br>"
 
 if ($x+$y>$z and $y+$z>$x and $x+$z>$y)
 echo "<b>Треугольник существет</b>";
