@@ -10,7 +10,7 @@ $arr=array_slice($x,0,$n);
 echo implode(", &nbsp", $arr)."<br>";
 
 $K=1;
-for ($i=0;$i<=count($arr)-1;$i++){
+for ($i=0;$i<=count($arr);$i++){
   if ($arr[$i]<0) {
     break;
   }
