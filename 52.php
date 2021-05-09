@@ -13,5 +13,5 @@ $y="What's your name?";
 echo "$y <br>";
 $z=" :)";
 echo "$z <br>";
-echo "$x $y $z"
+echo "$x $y $z";
  ?>
