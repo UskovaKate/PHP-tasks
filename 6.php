@@ -1,7 +1,3 @@
-/* Project Name: 6 task
-    Create Date	: 21.03.21
-    Autor: (C) Uskova Ekaterina, Chelyabinsk, 2021*/
-
 <?php
 //Определить значение функции Z=1/(XY) при X и Y не равных 0.
 while( in_array(($x = rand(-100,100)), array(0))); //Исключаем 0 из случайных чисел
