@@ -1,7 +1,3 @@
-/* Project Name: 2 task
-    Create Date	: 20.03.21
-    Autor: (C) Uskova Ekaterina, Chelyabinsk, 2021*/
-
 <?php
 //Даны действительные числа А, В, С. Найти максимальное и минимальное из этих чисел.
 $number=array("A"=>35,"B"=>45,"C"=>56);
