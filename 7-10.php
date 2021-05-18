@@ -1,7 +1,3 @@
-/* Project Name: 7-10 task
-    Create Date	: 21.03.21
-    Autor: (C) Uskova Ekaterina, Chelyabinsk, 2021*/
-
 <?php
 //Дано натуральное число.
 $x=rand(1,1000);
